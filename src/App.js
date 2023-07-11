@@ -8,7 +8,7 @@ function App() {
 
       height: '100vh',
       backgroundColor: 'gray',
-      padding: '0px 30px'
+      padding: '0px 20px'
     }
   }
 
