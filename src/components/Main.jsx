@@ -4,7 +4,7 @@ import DescriptPuntos from './DescriptPuntos.jsx';
 
 function Main() {
      const a = [17, 8, 30];
-     const b = [99, 56, 8];
+     const b = [99, 96, 80];
 
      const calcularPuntos = (a, b) => {
           let alicePuntos = 0;
